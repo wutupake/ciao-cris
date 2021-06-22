@@ -6,7 +6,9 @@ html {
 
 .wrap {
   font-family: 'Indie Flower', cursive;
+  box-sizing: border-box;
   margin: 0 auto;
+  padding: 0 0.5em;
   width: 100%;
   max-width: 500px;
   margin-bottom: 100px;
@@ -24,6 +26,10 @@ figure {
   margin: 0;
   padding: .7em;
   background-color: #eee;
+}
+
+blockquote {
+  margin: 0;
 }
 
 figcaption {
