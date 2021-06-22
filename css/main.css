@@ -22,14 +22,14 @@ em {
   color: rgb(0, 217, 255);
 }
 
+blockquote {
+  margin: 0;
+}
+
 figure {
   margin: 0;
   padding: .7em;
   background-color: #eee;
-}
-
-blockquote {
-  margin: 0;
 }
 
 figcaption {
@@ -47,7 +47,7 @@ textarea {
   border: 3px solid rgb(0, 217, 255);
   font-size: .5em;
   width: calc(100% - 10px);
-  height: 490px;
+  height: 460px;
   margin: 1em 0;
   resize: vertical;
 }
