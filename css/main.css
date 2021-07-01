@@ -22,6 +22,16 @@ em {
   color: rgb(0, 217, 255);
 }
 
+a {
+  color: #008299;
+  transition: color .1s;
+}
+
+a:hover {
+  color: rgb(0, 217, 255);
+  text-decoration: none;
+}
+
 blockquote {
   margin: 0;
 }
